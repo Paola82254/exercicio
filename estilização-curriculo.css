@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(215, 224, 232, 0.731);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.foto{
+    padding: 1.5rem;
+    width: 15rem;
+    display: flex;
+    align-items: start;
+    margin: 0;
+
+}
+
+h1  {
+    width: 18rem;
+    margin-left: 0.6rem;
+    margin-top: 1.7rem;
+    display: flex;
+    color: black;
+    font-weight: bold;
+    font-size: 33px;
+    font-family: Arial, Helvetica, sans-serif;
+    justify-content: center;
+}
+
+
+main{
+    margin: 0.6rem;
+}
+
+footer{
+    color:black;
+    background-color: white;
+    margin-bottom: 0;
+    margin-left: 0.6rem;
+}
+.texto-footer {
+    font-weight: bold;
+    margin-top: 1.7rem;
+    display: flex;
+    justify-content: center;
+}
